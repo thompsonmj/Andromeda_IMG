@@ -1,0 +1,17 @@
+numpy
+pandas
+sklearn
+matplotlib
+ipywidgets
+IPython
+math
+random
+os
+cv2
+skimage
+csv
+functools
+tqdm
+ipyplot
+torch
+torchvision
