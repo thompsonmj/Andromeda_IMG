@@ -7,6 +7,6 @@ tqdm
 sklearn
 matplotlib
 ipywidgets
-ipyploy
+ipyplot
 torch
 torchvision
