@@ -1,4 +1,5 @@
 numpy
+ipympl
 pandas
 python-math
 opencv-python-headless
