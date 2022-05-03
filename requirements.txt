@@ -1,7 +1,7 @@
 numpy
 pandas
 python-math
-opencv-python
+opencv-python-headless
 scikit-image
 tqdm
 sklearn
