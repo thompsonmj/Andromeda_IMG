@@ -1,12 +1,6 @@
 numpy
 pandas
-opencv-python-headless
-scikit-image
-tqdm
 sklearn
 matplotlib
 ipywidgets
-ipyplot
-torch
-torchvision
-Ipython
+IPython
