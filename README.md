@@ -6,4 +6,4 @@ Classic Jupyter Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https
 
 
 
-Test Andromeda [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/infovis-vt/Andromeda_IMG/HEAD?filepath=Andromeda_ImgVersion.ipynb)
+Test Andromeda [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/infovis-vt/Andromeda_IMG/HEAD?filepath=Andromeda.ipynb)
