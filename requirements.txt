@@ -1,7 +1,5 @@
 numpy
-ipympl
 pandas
-python-math
 opencv-python-headless
 scikit-image
 tqdm
@@ -11,3 +9,4 @@ ipywidgets
 ipyplot
 torch
 torchvision
+Ipython
