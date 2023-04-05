@@ -1,6 +1,6 @@
 # Andromeda_IMG
 
-Jupyter Lab: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/infovis-vt/Andromeda_IMG/main)
+Jupyter Lab: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/infovis-vt/Andromeda_IMG/bug/module-not-found)
 
 Classic Jupyter Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/infovis-vt/Andromeda_IMG/main?filepath=Andromeda_ImgVersion.ipynb)
 
